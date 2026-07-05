@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi 👋, I'm Sri Charan Kurapati
 
-<!--
-**KurapatiSriCharan/KurapatiSriCharan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Software Engineering Enthusiast
 
-Here are some ideas to get you started:
+🚀 Passionate about building Android applications and AI-powered solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- Python
+- JavaScript
+- HTML5
+- CSS3
+- Git & GitHub
+
+### 📚 Currently Exploring
+- Android App Development
+- Artificial Intelligence
+- Machine Learning
+- Data Structures & Algorithms
+- Web Development
+
+### 🎯 Goals
+- Build impactful Android applications
+- Create AI & ML projects
+- Contribute to Open Source
+- Secure a Software Engineering Internship
+
+### 📫 Connect With Me
+- LinkedIn: www.linkedin.com/in/kurapati-sri-charan-79937033b
+- Email: kurapatisricharan26@gmail.com
